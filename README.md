@@ -66,6 +66,8 @@ I also love watching anime and playing video games.
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ultrasubha&repo=winter-of-contributing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ultrasubha)
+
 ## 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://twitter.com/ultrasubha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ultrasubha" height="30" width="40" /></a>
@@ -73,11 +75,9 @@ I also love watching anime and playing video games.
 <a href="https://stackoverflow.com/users/15030983/enraged-falcon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15030983/enraged-falcon" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ultrasubha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ultrasubha" height="30" width="40" /></a>
   
-<p align="center"> 
+<p align="right"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Ultrasubha/count.svg" />
 </p>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rahul15197)
 
 <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
