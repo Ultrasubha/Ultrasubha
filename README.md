@@ -1,8 +1,5 @@
-### Hi there 👋
-
 <!--
 **Ultrasubha/Ultrasubha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -34,7 +31,7 @@ English>Bengali>Japanese>Hindi
 - Linux, Shell Scripting
 
 ## 	&#x1F526; 𝑰 𝒂𝒎 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈/𝑷𝒍𝒂𝒏𝒏𝒊𝒏𝒈 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏 
-Java, NLP, Computer Vision, Assembly, MongoDB, IoT (Arduino, Raspberry PI, NodemCU), VR, AR, BCI.
+Java, NLTK,Speech recognition,Pytorch, Computer Vision, Assembly, MongoDB, IoT (Arduino, Raspberry PI, NodemCU), VR, AR, BCI.
 
 ## &#x270C;𝑨𝒄𝒉𝒊𝒆𝒗𝒆𝒎𝒆𝒏𝒕𝒔
 I have created Crazy Ball Maze and the UwUCalculator available on google playstore.
@@ -50,8 +47,8 @@ I also love watching anime and playing video games.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/> -->
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 </p>
 
 
