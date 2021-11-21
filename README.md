@@ -75,6 +75,6 @@ I also love watching anime and playing video games.
   
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rahul15197/count.svg" />
+  <img src="https://profile-counter.glitch.me/Ultrasubha/count.svg" />
 </p>
 
