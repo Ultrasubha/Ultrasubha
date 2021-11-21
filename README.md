@@ -57,16 +57,11 @@ I also love watching anime and playing video games.
 </a>
 
 ## 🔗 &nbsp;**Connect with me**
-<!-- <a href="https://dev.to/ultrasubha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Ultrasubha" height="30" width="40" /></a> -->
-  
+<a href="https://dev.to/ultrasubha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Ultrasubha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15030983/enraged-falcon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15030983/enraged-falcon" height="30" width="40" /></a>
-
 <a href="https://www.linkedin.com/in/subhadeep-mandal-18112068/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ultrasubha" height="30" width="40" /></a>
-  
 <!-- <a href="https://discord.gg/Ultrasubha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alok722" height="30" width="40" /></a> -->
-  
 <a href="https://twitter.com/ultrasubha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ultrasubha" height="30" width="40" /></a>
-  
 <a href="https://www.instagram.com/ultrasubha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ultrasubha" height="30" width="40" /></a>
  
 <!--
