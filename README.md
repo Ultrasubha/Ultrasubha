@@ -63,10 +63,7 @@ I also love watching anime and playing video games.
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ultrasubha&repo=MyCodes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Ultrasubha/Ultrasubha">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ultrasubha&repo=winter-of-contributing &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Ultrasubha/Ultrasubha">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ultrasubha&repo=nodemcu-firmware &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ultrasubha&repo=winter-of-contributing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## 🔗 &nbsp;**Connect with me**
