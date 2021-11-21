@@ -24,7 +24,7 @@ I enjoy Coding, Debugging, Problem-solving, Learning foreign languages and cultu
 English>Bengali>Japanese>Hindi
 (𝘐 𝘢𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘢 𝘑𝘓𝘗𝘛 𝘕2 𝘭𝘦𝘷𝘦𝘭 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 𝘪𝘯 𝘵𝘩𝘦 𝘑𝘢𝘱𝘢𝘯𝘦𝘴𝘦 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦)
 
-## &#x1F4A1; 𝑺𝒌𝒊𝒍𝒍𝒔 𝑰 𝒑𝒐𝒔𝒔𝒆𝒔𝒔
+## 🔧 𝑺𝒌𝒊𝒍𝒍𝒔 𝑰 𝒑𝒐𝒔𝒔𝒆𝒔𝒔
 - Latex, Blender, Photoshop, Unity
 - C#, C, CPP, Python
 - HTML,CSS,JS,PHP,MySQL,SQL
@@ -41,16 +41,6 @@ I have created a CSV file creator and numerous small projects that make my progr
 ## &#x1F3BC; 𝑯𝒐𝒃𝒃𝒊𝒆𝒔
 When I am not in front of a computer I like to Sketch, play Piano or listen to music.
 I also love watching anime and playing video games.
-
-## 🔧 Langueages & Tools
-<p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/> -->
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-</p>
-
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Ultrasubha/Ultrasubha">
@@ -74,6 +64,15 @@ I also love watching anime and playing video games.
 <a href="https://www.instagram.com/ultrasubha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ultrasubha" height="30" width="40" /></a>
  
 <!--
+## 🔧 Languages & Tools
+<p align='left'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/> -->
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+</p>
+
 <p align="right"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Ultrasubha/count.svg" />
