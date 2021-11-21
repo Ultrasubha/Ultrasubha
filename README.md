@@ -23,25 +23,25 @@ My name is Subhadeep Mandal.I am a Btech Hons. student of Computer Science & Eng
 I create my own assets with Blender, Photoshop, Audacity, etc for my games.
 I enjoy Coding, Debugging, Problem-solving, Learning foreign languages and cultures.
 
-𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 𝑷𝒓𝒐𝒇𝒊𝒄𝒊𝒆𝒏𝒄𝒚
+## &#x270d; 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 𝑷𝒓𝒐𝒇𝒊𝒄𝒊𝒆𝒏𝒄𝒚
 English>Bengali>Japanese>Hindi
 (𝘐 𝘢𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘢 𝘑𝘓𝘗𝘛 𝘕2 𝘭𝘦𝘷𝘦𝘭 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 𝘪𝘯 𝘵𝘩𝘦 𝘑𝘢𝘱𝘢𝘯𝘦𝘴𝘦 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦)
 
-𝑺𝒌𝒊𝒍𝒍𝒔 𝑰 𝒑𝒐𝒔𝒔𝒆𝒔𝒔
+## &#x1F4A1; 𝑺𝒌𝒊𝒍𝒍𝒔 𝑰 𝒑𝒐𝒔𝒔𝒆𝒔𝒔
 ➤ Latex, Blender, Photoshop
 ➤C#, C, CPP, Python
 ➤HTML,CSS,JS,PHP,MySQL,SQL
 ➤Linux, Shell Scripting
 
-𝑰 𝒂𝒎 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈/𝑷𝒍𝒂𝒏𝒏𝒊𝒏𝒈 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏 
+## 	&#x1F526; 𝑰 𝒂𝒎 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈/𝑷𝒍𝒂𝒏𝒏𝒊𝒏𝒈 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏 
 ➤ Java, NLP, Computer Vision, Assembly, MongoDB, IoT (Arduino, Raspberry PI, NodemCU), VR, AR, BCI.
 
-𝑨𝒄𝒉𝒊𝒆𝒗𝒆𝒎𝒆𝒏𝒕𝒔
+## &#x270C;𝑨𝒄𝒉𝒊𝒆𝒗𝒆𝒎𝒆𝒏𝒕𝒔
 I have created Crazy Ball Maze and the UwUCalculator available on google playstore.
 I have created several Encoders and Decoders to send secret messages.
 I have created a CSV file creator and numerous small projects that make my programming tasks easier.
 
-## &#x270d; 𝑯𝒐𝒃𝒃𝒊𝒆𝒔
+## &#x1F3BC; 𝑯𝒐𝒃𝒃𝒊𝒆𝒔
 When I am not in front of a computer I like to Sketch, play Piano or listen to music.
 I also love watching anime and playing video games.
 
