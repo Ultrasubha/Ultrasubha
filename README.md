@@ -28,13 +28,13 @@ English>Bengali>Japanese>Hindi
 (𝘐 𝘢𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘢 𝘑𝘓𝘗𝘛 𝘕2 𝘭𝘦𝘷𝘦𝘭 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 𝘪𝘯 𝘵𝘩𝘦 𝘑𝘢𝘱𝘢𝘯𝘦𝘴𝘦 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦)
 
 ## &#x1F4A1; 𝑺𝒌𝒊𝒍𝒍𝒔 𝑰 𝒑𝒐𝒔𝒔𝒆𝒔𝒔
-➤ Latex, Blender, Photoshop
-➤C#, C, CPP, Python
-➤HTML,CSS,JS,PHP,MySQL,SQL
-➤Linux, Shell Scripting
+- Latex, Blender, Photoshop
+- C#, C, CPP, Python
+- HTML,CSS,JS,PHP,MySQL,SQL
+- Linux, Shell Scripting
 
 ## 	&#x1F526; 𝑰 𝒂𝒎 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈/𝑷𝒍𝒂𝒏𝒏𝒊𝒏𝒈 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏 
-➤ Java, NLP, Computer Vision, Assembly, MongoDB, IoT (Arduino, Raspberry PI, NodemCU), VR, AR, BCI.
+Java, NLP, Computer Vision, Assembly, MongoDB, IoT (Arduino, Raspberry PI, NodemCU), VR, AR, BCI.
 
 ## &#x270C;𝑨𝒄𝒉𝒊𝒆𝒗𝒆𝒎𝒆𝒏𝒕𝒔
 I have created Crazy Ball Maze and the UwUCalculator available on google playstore.
