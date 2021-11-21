@@ -77,7 +77,14 @@ I also love watching anime and playing video games.
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Ultrasubha/count.svg" />
 </p>
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ultrasubha)
+
 <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
-<!-- <a href="https://discord.gg/Ultrasubha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alok722" height="30" width="40" /></a> -->
+
+Discord
+<a href="https://discord.gg/Ultrasubha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alok722" height="30" width="40" /></a> 
+
+Dev
+<!-- <a href="https://dev.to/ultrasubha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Ultrasubha" height="30" width="40" /></a>
 -->
