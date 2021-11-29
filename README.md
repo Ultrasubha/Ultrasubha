@@ -26,7 +26,7 @@ English>Bengali>Japanese>Hindi
 
 ## 🔧 𝑺𝒌𝒊𝒍𝒍𝒔 𝑰 𝒑𝒐𝒔𝒔𝒆𝒔𝒔
 - Latex, Blender, Photoshop, Unity
-- C#, C, CPP, Python
+- C#, C, CPP, Python, Go, Java
 - HTML,CSS,JS,PHP,MySQL,SQL
 - Linux, Shell Scripting
 
