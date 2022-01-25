@@ -27,7 +27,7 @@ English>Bengali>Japanese>Hindi
 ## 🔧 𝑺𝒌𝒊𝒍𝒍𝒔 𝑰 𝒑𝒐𝒔𝒔𝒆𝒔𝒔
 - Latex, Blender, Photoshop, Unity
 - C#, C, CPP, Python, Go, Java
-- HTML,CSS,JS,PHP,MySQL,SQL
+- HTML,CSS,JS,PHP,MySQL,SQL,BootStrap
 - Linux, Shell Scripting
 
 ## 	&#x1F526; 𝑰 𝒂𝒎 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈/𝑷𝒍𝒂𝒏𝒏𝒊𝒏𝒈 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏 
