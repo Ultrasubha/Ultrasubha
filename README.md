@@ -43,10 +43,10 @@ I have created a CSV file creator and numerous small projects that make my progr
 When I am not in front of a computer I like to Sketch, play Piano or listen to music.
 I also love watching anime and playing video games.
 
-𝓜𝔂 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ➙ 
+## &#x1F4BC; 𝓜𝔂 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ➙ 
 1) https://play.google.com/store/apps/details?id=com.Guava_Slice.UwUCalculator
 
-𝓜𝓲𝓷𝓲 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ➙ 
+## &#x1F4BC; 𝓜𝓲𝓷𝓲 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ➙ 
 1) https://ultrasubha.github.io/Unicode/
 2) https://ultrasubha.github.io/schedule/
 
