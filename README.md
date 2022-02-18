@@ -31,16 +31,24 @@ English>Bengali>Japanese>Hindi
 - Linux, Shell Scripting
 
 ## 	&#x1F526; 𝑰 𝒂𝒎 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈/𝑷𝒍𝒂𝒏𝒏𝒊𝒏𝒈 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏 
-Java, NLTK,Speech recognition,Pytorch, Computer Vision, Assembly, MongoDB, IoT (Arduino, Raspberry PI, NodemCU), VR, AR, BCI.
+Scala, Kotlin, Hadoop, Apache, NLTK,Speech recognition,Pytorch, Computer Vision, Assembly, MongoDB, IoT (Arduino, Raspberry PI, NodemCU), VR, AR, BCI.
 
 ## &#x270C;𝑨𝒄𝒉𝒊𝒆𝒗𝒆𝒎𝒆𝒏𝒕𝒔
 I have created Crazy Ball Maze and the UwUCalculator available on google playstore.
 I have created several Encoders and Decoders to send secret messages.
+I have created a chatbot, password generator.
 I have created a CSV file creator and numerous small projects that make my programming tasks easier.
 
 ## &#x1F3BC; 𝑯𝒐𝒃𝒃𝒊𝒆𝒔
 When I am not in front of a computer I like to Sketch, play Piano or listen to music.
 I also love watching anime and playing video games.
+
+𝓜𝔂 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ➙ 
+1) https://play.google.com/store/apps/details?id=com.Guava_Slice.UwUCalculator
+
+𝓜𝓲𝓷𝓲 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ➙ 
+1) https://ultrasubha.github.io/Unicode/
+2) https://ultrasubha.github.io/schedule/
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Ultrasubha/Ultrasubha">
