@@ -35,10 +35,10 @@ Scala, Kotlin, Hadoop, Apache, NLTK,Speech recognition,Pytorch, Computer Vision,
 
 ## &#x270C;𝑨𝒄𝒉𝒊𝒆𝒗𝒆𝒎𝒆𝒏𝒕𝒔
 - Created (Terminal/ cmd prompt/ simple code based) based projects
-- - Encoders and Decoders (Ciphers) ➜ [𝑪, 𝑷𝒚𝒕𝒉𝒐𝒏]
-- - Chatbot, Password generator  ➜ [𝑷𝒚𝒕𝒉𝒐𝒏]
-- - CSV Creator ➜ [𝑪𝑷𝑷]
-- - and numerous small projects that make my programming tasks easier ➜ [𝑮𝒊𝒕𝒉𝒖𝒃]
+  - Encoders and Decoders (Ciphers) ➜ [𝑪, 𝑷𝒚𝒕𝒉𝒐𝒏]
+  - Chatbot, Password generator  ➜ [𝑷𝒚𝒕𝒉𝒐𝒏]
+  - CSV Creator ➜ [𝑪𝑷𝑷]
+  - and numerous small projects that make my programming tasks easier ➜ [𝑮𝒊𝒕𝒉𝒖𝒃]
 
 ## &#x1F3BC; 𝑯𝒐𝒃𝒃𝒊𝒆𝒔
 When I am not in front of a computer I like to Sketch, play Piano or listen to music.
