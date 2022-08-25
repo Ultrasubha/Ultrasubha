@@ -46,6 +46,7 @@ I also love watching anime and playing video games.
 
 ## &#x1F4BC; 𝓜𝔂 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ➙ 
 1) https://play.google.com/store/apps/details?id=com.Guava_Slice.UwUCalculator
+2) https://play.google.com/store/apps/details?id=com.Guava_Slice.FlappyEagleScenic
 
 ## &#x1F4BC; 𝓜𝓲𝓷𝓲 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ➙ 
 1) https://ultrasubha.github.io/schedule/
