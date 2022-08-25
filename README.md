@@ -48,8 +48,7 @@ I also love watching anime and playing video games.
 1) https://play.google.com/store/apps/details?id=com.Guava_Slice.UwUCalculator
 
 ## &#x1F4BC; 𝓜𝓲𝓷𝓲 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ➙ 
-1) https://ultrasubha.github.io/Unicode/
-2) https://ultrasubha.github.io/schedule/
+1) https://ultrasubha.github.io/schedule/
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Ultrasubha/Ultrasubha">
