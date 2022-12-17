@@ -74,8 +74,9 @@ I also love watching anime and playing video games.
 <a href="https://twitter.com/ultrasubha" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Ultrasubha" height="50" width="150" /></a>
 <a href="https://www.instagram.com/ultrasubha/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Ultrasubha" height="50" width="150" /></a>
  
+ <!--                 For more logos
 <p align="center"><img src="./Developer.gif" width="200px"/></p>
-![](https://github.com/Ultrasubha/Ultrasubha/blob/main/Developer.gif)
+https://github.com/alexandresanlim/Badges4-README.md-Profile            -->
 <!--
 ## 🔧 Languages & Tools
 <p align='left'>
