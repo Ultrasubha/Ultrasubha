@@ -75,7 +75,7 @@ I also love watching anime and playing video games.
 <a href="https://www.instagram.com/ultrasubha/" target="blank"><img align="center" src="instagram.svg" alt="Ultrasubha" height="30" width="40" /></a>
  
 <p align="center"><img src="./Developer.gif" width="200px"/></p>
-<img src="[/path/to/img.jpg](https://github.com/Ultrasubha/Ultrasubha/blob/main/dev-dot-to.svg)" alt="Alt text" title="Optional title">
+[<img src="[/path/to/img.jpg](https://github.com/Ultrasubha/Ultrasubha/blob/main/dev-dot-to.svg)" alt="Alt text" title="Optional title">](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--
 ## 🔧 Languages & Tools
 <p align='left'>
