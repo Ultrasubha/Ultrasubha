@@ -75,7 +75,7 @@ I also love watching anime and playing video games.
 <a href="https://www.instagram.com/ultrasubha/" target="blank"><img align="center" src="instagram.svg" alt="Ultrasubha" height="30" width="40" /></a>
  
 <p align="center"><img src="./Developer.gif" width="200px"/></p>
-![alt text]([http://url/to/img.png](https://github.com/Ultrasubha/Ultrasubha/blob/main/dev-dot-to.svg))
+<img src="[/path/to/img.jpg](https://github.com/Ultrasubha/Ultrasubha/blob/main/dev-dot-to.svg)" alt="Alt text" title="Optional title">
 <!--
 ## 🔧 Languages & Tools
 <p align='left'>
