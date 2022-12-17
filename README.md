@@ -67,12 +67,12 @@ I also love watching anime and playing video games.
 
 ## 🔗 &nbsp;**Connect with me**
 
-<a href="https://dev.to/ultrasubha" target="blank"><img align="center" src="dev-dot-to.svg" alt="Ultrasubha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15030983/enraged-falcon" target="blank"><img align="center" src="stack-overflow.svg" alt="15030983/enraged-falcon" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ultrasubha" target="blank"><img align="center" src="hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
+<a href="https://dev.to/ultrasubha" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Ultrasubha" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15030983/enraged-falcon" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="15030983/enraged-falcon" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ultrasubha" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mandalsubhadeep" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ultrasubha" height="30" width="40" /></a>
-<a href="https://twitter.com/ultrasubha" target="blank"><img align="center" src="twitter.svg" alt="Ultrasubha" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ultrasubha/" target="blank"><img align="center" src="instagram.svg" alt="Ultrasubha" height="30" width="40" /></a>
+<a href="https://twitter.com/ultrasubha" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Ultrasubha" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ultrasubha/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Ultrasubha" height="30" width="40" /></a>
  
 <p align="center"><img src="./Developer.gif" width="200px"/></p>
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
