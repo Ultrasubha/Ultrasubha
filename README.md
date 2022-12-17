@@ -72,7 +72,7 @@ I also love watching anime and playing video games.
 <a href="https://www.hackerrank.com/ultrasubha" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" height="50" width="150" /></a>
 <a href="https://www.linkedin.com/in/mandalsubhadeep" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ultrasubha" height="50" width="150" /></a>
 <a href="https://twitter.com/ultrasubha" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Ultrasubha" height="50" width="150" /></a>
-<a href="https://www.instagram.com/ultrasubha/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Ultrasubha" height="50" width="150" /></a>
+<a href="https://www.instagram.com/sub0d33p/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Ultrasubha" height="50" width="150" /></a>
  
  <!--                 For more logos
 <p align="center"><img src="./Developer.gif" width="200px"/></p>
